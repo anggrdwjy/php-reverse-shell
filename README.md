@@ -3,9 +3,9 @@
 I am not responsible for any consequences caused by this script because this script was created for `Ethical Hacking` purposes.
 
 
-## Methode 1
+## Methode 1 (PHPShell)
 
-Upload PHPShell (Target Folder, Example : /var/www/html)
+Download PHPShell (Target Folder, Example : /var/www/html)
 ```
 https://github.com/flozz/p0wny-shell.git
 ```
@@ -18,9 +18,7 @@ Access Web Server with Browser
 http://targetwebsite.com/shell.php 
 ```
 
-## Methode 2
-
-## Target Side
+## Methode 2 (Reverse Shell)
 
 Download Payload (Target Folder, Example : /var/www/html)
 ```
